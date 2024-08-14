@@ -7,6 +7,7 @@
   "author": "Elvinas Predkelis",
   "license": "MIT",
   "dependencies": {
-    "@hotwired/stimulus": "^3.2.2"
+    "@hotwired/stimulus": "^3.2.2",
+    "cally": "^0.7.1"
   }
 }

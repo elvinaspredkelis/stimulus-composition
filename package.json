@@ -1,0 +1,12 @@
+{
+  "name": "stimulants",
+  "version": "0.0.1",
+  "description": "A library of Stimulus controllers",
+  "main": "index.js",
+  "repository": "https://github.com/elvinaspredkelis/stimulants",
+  "author": "Elvinas Predkelis",
+  "license": "MIT",
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.2"
+  }
+}
